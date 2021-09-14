@@ -129,3 +129,6 @@ fmod_editor.log
 # Assets/Plugins/ClientOnly.meta
 
 UserSettings/
+
+docs/*.png
+
