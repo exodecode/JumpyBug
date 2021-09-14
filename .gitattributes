@@ -81,8 +81,4 @@
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 
-docs/*.png
-docs/
-docs/ export-ignore
-docs/*.png export-ignore
-docs/icon_jumpyBug.png
+docs/*.png !filter !diff !merge text 
