@@ -81,4 +81,4 @@
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 
-docs/
+docs/*.png
