@@ -1,2 +1,1 @@
 # JumpyBug
-jumpybug.com
