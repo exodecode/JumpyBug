@@ -85,3 +85,4 @@ docs/*.png
 docs/
 docs/ export-ignore
 docs/*.png export-ignore
+docs/icon_jumpyBug.png
